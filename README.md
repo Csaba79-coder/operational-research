@@ -17,3 +17,5 @@ subject to c13:   x1        <=  7;
 subject to c14:          x2 <=  6;
 
 end;
+
+The task can be solved with Excel as well!
